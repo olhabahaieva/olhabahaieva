@@ -1,29 +1,28 @@
-# Hi there 👋 I'm **Olha Bahaieva**
-**Lead UX/UI & Product Designer | Design Mentor | Award-Winning Creator**
+# Hi there 👋 I'm **Olha Bahaieva**  
+**Lead UX/UI & Product Designer | Design Mentor | No-Code & AI Builder**
 
-👩‍🎨 I’m a human-centered UX/UI and Product Designer with **10+ years of experience** crafting intuitive digital experiences for apps, web products, and enterprise platforms. I’ve worked with startups and global brands — including *DISH Network* and top marketplace clients — driving design that solves real user problems and delivers measurable business impact.
+I’m a human-centered UX/UI & Product Designer with **10+ years of experience**, building scalable digital products for startups and global companies — including **DISH Network**. I specialize in transforming complex problems into clear, elegant, high-impact user experiences.
 
-✨ My work blends strategic thinking, user-centered design, and visual clarity. I’m passionate about building solutions that are accessible, elegant, and delightful for users — and easy to scale across teams.
+✨ My work blends UX strategy, visual clarity, and modern product execution. I design **and ship** products using no-code and AI tools — bridging the gap between idea, design, and live product.
 
-💼 **Currently:** Lead UX/UI Designer at Dish Network (USA)  
-🌍 **Based in:** Ukraine / Open to remote roles & collaborative opportunities  
-📣 **Also:** Mentor, design community founder (UX Designers Club), author, and design judge.
-
----
-
-## What I Bring to the Table
-- 🎯 **Product & UX Strategy** — research, user flows, usability testing  
-- 📱 **UX/UI Design** — high-fi prototypes, responsive systems, interaction design  
-- 🧠 **Design Leadership** — mentoring, workshops, design thinking facilitation  
-- 🏆 **Recognition** — award­winning work and design judging roles  
-- 📚 **Thought Leadership** — 3000+ LinkedIn posts and articles on UX design.
+💼 **Currently:** Lead UX/UI Designer at DISH Network (USA)  
+🌍 **Based in:** Ukraine / Open to remote roles  
+📣 **Also:** Mentor, founder of UX Designers Club, design judge & award winner
 
 ---
 
-🚀 *Explore my repositories to see my design tooling, workflows, and examples of how I translate UX thinking into code-ready assets.*
+## What I Bring
+- 🎯 **Product & UX Strategy** — research, flows, usability, metrics  
+- 🎨 **UX/UI & Design Systems** — scalable UI, accessibility, interaction design  
+- ⚡ **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
+- 🧠 **Design Leadership** — mentoring, workshops, product thinking
+
+---
+
+🚀 *Explore my repositories to see how I combine UX, no-code, and AI to ship real products.*
 
 ---
 
 ## 🤝 Let’s Connect
-📫 Reach out via LinkedIn: https://www.linkedin.com/in/olhabahaieva/  
-🌐 Portfolio: https://www.olhabahaieva.com/
+🔗 https://www.linkedin.com/in/olhabahaieva/  
+🌐 https://www.olhabahaieva.com/
