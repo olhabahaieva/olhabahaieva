@@ -39,8 +39,6 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 
 🚀 *Explore my repositories to see how I combine UX, no-code, and AI to ship real products.*
 
----
-
 ## 🤝 Let’s Connect
 🔗 https://www.linkedin.com/in/olhabahaieva/  
 🌐 https://www.olhabahaieva.com/
