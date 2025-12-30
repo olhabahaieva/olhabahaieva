@@ -14,6 +14,7 @@ I’m a human-centered UX/UI & Product Designer with **12+ years of experience**
 - **UX/UI & Design Systems** — scalable UI, accessibility, interaction design  
 - **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
 - **Design Leadership** — mentoring, workshops, product thinking
+- **Coding Specialization** — HTML, CSS, JavaScript, React, Node.js basics, API integration
 
 ### Core Languages
 
