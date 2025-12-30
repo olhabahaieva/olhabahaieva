@@ -1,7 +1,7 @@
 # Hi there 👋 I'm **Olha Bahaieva**  
 ****Senior UX/UI & Product Designer | 💼 12 YOE | 👥 8.4M DISH Users | 🧩 4 Design Systems | 💰 $17B Enterprise & 5x Startups | 🧱 Webflow | 🎓 Mentor | 📣 Speaker | No-Code & AI Builder****
 
-I’m a UX/UI & Product Designer with over 12 years of experience, creating scalable products for companies like DISH Network using UX strategy, design, and no-code/AI tools.
+I design and ship scalable digital products for companies like DISH Network, blending UX strategy, design, and no-code/AI tools.
 
 ## Key Achievements
 - **Impacted 8.4M users** at DISH Network (EchoStar) and supported $17B enterprise plus 5 startups with product design.
