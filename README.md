@@ -1,11 +1,15 @@
 # Hi there 👋 I'm **Olha Bahaieva**  
-**Senior UX/UI & Product Designer | 💼 12 YOE | 👥 8.4M DISH Users | 🧩 4 Design Systems | 💰 $17B Enterprise & 5x Startups | 🧱 Webflow | 🎓 Mentor | 📣 Speaker | No-Code & AI Builder**
+**Senior UX/UI & Product Designer @DISH Network | 💼 12 YOE | 🧱 Webflow | 🎓 Mentor | 💼 Founder | 📣 Speaker | No-Code & AI Builder**
 
 I’m a human-centered UX/UI & Product Designer with **12+ years of experience**, building scalable digital products for startups and global companies, including **DISH Network**. My work blends UX strategy, visual clarity, and modern product execution. I design and ship products using no-code and AI tools, bridging the gap between idea, design, and live product.
 
-💼 **Currently:** Lead UX/UI Designer at DISH Network (USA)  
-🌍 **Based in:** Ukraine / Open to remote roles  
-📣 **Also:** Mentor, founder of UX Designers Club, design judge & award winner
+## Key Achievements
+- **8.4M users impacted** through DISH Network products  
+- **4 design systems** created for enterprise & startups  
+- **$17B enterprise & 5 startups** supported with product design  
+- **Mentor & Founder** of UX Designers Club  
+- **Design Judge & Award Winner** in global competitions  
+- **Speaker** at UX/UI and product design events
 
 ## What I Bring
 - **Product & UX Strategy** — research, flows, usability, metrics  
@@ -15,7 +19,6 @@ I’m a human-centered UX/UI & Product Designer with **12+ years of experience**
 - **Coding Specialization** — HTML, CSS, JavaScript, React, Node.js basics, API integration
 
 ### My Toolbox
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
