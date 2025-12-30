@@ -36,8 +36,6 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 ![Replit](https://img.shields.io/badge/Replit-FF4F00?style=for-the-badge&logo=replit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-6F42C1?style=for-the-badge&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 🚀 *Explore my repositories to see how I combine UX, no-code, and AI to ship real products.*
 
