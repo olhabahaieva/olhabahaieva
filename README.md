@@ -9,8 +9,6 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 🌍 **Based in:** Ukraine / Open to remote roles  
 📣 **Also:** Mentor, founder of UX Designers Club, design judge & award winner
 
----
-
 ## What I Bring
 - **Product & UX Strategy** — research, flows, usability, metrics  
 - **UX/UI & Design Systems** — scalable UI, accessibility, interaction design  
