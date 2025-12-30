@@ -15,8 +15,6 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 - **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
 - **Design Leadership** — mentoring, workshops, product thinking
 
----
-
 ### 💡 Core Languages
 
 <!-- Core languages -->
@@ -25,15 +23,11 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
-
 ### 🎨 Design & Prototyping
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-3D96FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
----
 
 ### 🤖 Coding, AI & No-Code Tools
 
@@ -44,8 +38,6 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 ![Cursor](https://img.shields.io/badge/Cursor-6F42C1?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 🚀 *Explore my repositories to see how I combine UX, no-code, and AI to ship real products.*
 
