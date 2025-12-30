@@ -3,7 +3,7 @@
 
 I’m a human-centered UX/UI & Product Designer with **12+ years of experience**, building scalable digital products for startups and global companies, including **DISH Network**. I specialize in transforming complex problems into clear, elegant, high-impact user experiences.
 
-✨ My work blends UX strategy, visual clarity, and modern product execution. I design **and ship** products using no-code and AI tools — bridging the gap between idea, design, and live product.
+✨ My work blends UX strategy, visual clarity, and modern product execution. I design and ship products using no-code and AI tools, bridging the gap between idea, design, and live product.
 
 💼 **Currently:** Lead UX/UI Designer at DISH Network (USA)  
 🌍 **Based in:** Ukraine / Open to remote roles  
