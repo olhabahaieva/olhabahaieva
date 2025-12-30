@@ -17,42 +17,40 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 - **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
 - **Design Leadership** — mentoring, workshops, product thinking
 
---- 
-
 ### 💡 Tech & Tools
 
 <!-- Core languages -->
-<img align="left" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" />
-<img align="left" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" />
-<img align="left" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" />
+<img align="left" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" />
+<img align="left" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" />
+<img align="left" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" />
 
 <!-- Frontend frameworks -->
-<img align="left" alt="React" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" />
+<img align="left" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" />
 
 <br clear="both"/>
 
 ### 🎨 Design & Prototyping
 
-<img align="left" alt="Figma" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" />
-<img align="left" alt="Webflow" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/webflow.svg" />
-<img align="left" alt="Framer" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/framer.svg" />
+<img align="left" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" />
+<img align="left" alt="Webflow" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/webflow.svg" />
+<img align="left" alt="Framer" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/framer.svg" />
 
 <br clear="both"/>
 
 ### 🤖 AI & No-Code Tools
 
-<img align="left" alt="Bolt" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bolt.svg" />
-<img align="left" alt="Lovable" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heart.svg" />
-<img align="left" alt="Replit" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/replit.svg" />
+<img align="left" alt="Bolt" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bolt.svg" />
+<img align="left" alt="Lovable" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lovense.svg" />
+<img align="left" alt="Replit" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/replit.svg" />
 
 <br clear="both"/>
 
 ### 🧑‍💻 Coding & Dev Environment
 
-<img align="left" alt="VS Code" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/visualstudiocode.svg" />
-<img align="left" alt="Cursor" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" />
-<img align="left" alt="Git" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" />
-<img align="left" alt="GitHub" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" />
+<img align="left" alt="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" />
+<img align="left" alt="Cursor" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cursor.svg" />
+<img align="left" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" />
+<img align="left" alt="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" />
 
 <br clear="both"/>
 
