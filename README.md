@@ -13,7 +13,6 @@ I’m a human-centered UX/UI & Product Designer with 10+ years of experience, bu
 - **Product & UX Strategy** — research, flows, usability, metrics
 - **UX/UI & Design Systems** — scalable UI, accessibility, interaction design
 - **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit
-- **Design Leadership** — mentoring, workshops, product thinking
 
 ## Featured Projects
 - **[Bookshelf](https://github.com/olhabahaieva/Bookshelf)** — Frontend UI with live demo: simple book library interface  
