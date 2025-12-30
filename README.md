@@ -12,10 +12,10 @@ I’m a human-centered UX/UI & Product Designer with **10+ years of experience**
 ---
 
 ## What I Bring
-- 🎯 **Product & UX Strategy** — research, flows, usability, metrics  
-- 🎨 **UX/UI & Design Systems** — scalable UI, accessibility, interaction design  
-- ⚡ **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
-- 🧠 **Design Leadership** — mentoring, workshops, product thinking
+- **Product & UX Strategy** — research, flows, usability, metrics  
+- **UX/UI & Design Systems** — scalable UI, accessibility, interaction design  
+- **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
+- **Design Leadership** — mentoring, workshops, product thinking
 
 ---
 
