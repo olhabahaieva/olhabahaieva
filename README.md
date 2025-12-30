@@ -7,15 +7,14 @@ I’m a human-centered UX/UI & Product Designer with **12+ years of experience**
 - **8.4M users impacted** through DISH Network (EchoStar) products   
 - **$17B enterprise & 5 startups** supported with product design  
 - **Top ADP List Mentor & Founder** of UX Designers Club  
-- **Design Judge & Award Winner** in global competitions  
+- **9x Design Judge & 4x Award Winner** in global competitions  
 - **5x Speaker** on YouTube, Spotify, Apple Podcasts
 
 ## What I Bring
-- **Product & UX Strategy** — research, flows, usability, metrics  
-- **UX/UI & Design Systems** — scalable UI, accessibility, interaction design  
+- **Product Strategy** — research, flows, usability, metrics  
+- **UX/UI & Design Systems** — scalable, accessible, interactive  
 - **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
-- **Design Leadership** — mentoring, workshops, product thinking
-- **Coding Specialization** — HTML, CSS, JavaScript, React, Node.js basics, API integration
+- **Coding** — HTML, CSS, JavaScript, React, Node.js basics, API integration
 
 ### My Toolbox
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
