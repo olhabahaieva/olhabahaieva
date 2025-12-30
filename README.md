@@ -4,7 +4,6 @@
 I’m a UX/UI & Product Designer with over 12 years of experience, creating scalable products for companies like DISH Network using UX strategy, design, and no-code/AI tools.
 
 ## Key Achievements
-## 🏆 Key Achievements
 - **Impacted 8.4M users** at DISH Network (EchoStar) and supported $17B enterprise plus 5 startups with product design.
 - **Top ADP List Mentor & Founder** of UX Designers Club, 9x Design Judge & 4x Award Winner  
 - **5x Speaker** on YouTube, Spotify, and Apple Podcasts
