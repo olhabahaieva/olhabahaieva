@@ -1,9 +1,7 @@
 # Hi there 👋 I'm **Olha Bahaieva**  
 ****Senior UX/UI & Product Designer | 💼 12 YOE | 🧱 Webflow | 🎨 Framer | No-Code & AI Builder****
 
-I’m a human-centered UX/UI & Product Designer with 10+ years of experience, building scalable digital products for startups and global companies — including DISH Network. I specialize in transforming complex problems into clear, elegant, high-impact user experiences.
-
-My work blends UX strategy, visual clarity, and modern product execution. I design and ship products using no-code and AI tools — bridging the gap between idea, design, and live product.
+I’m a human-centered UX/UI & Product Designer with 10+ years of experience, building scalable digital products for startups and global companies, including DISH Network. My work blends UX strategy, visual clarity, and modern product execution. I design and ship products using no-code and AI tools, bridging the gap between idea, design, and live product.
 
 ## Key Achievements
 - **Impacted 8.4M users** at DISH Network (EchoStar) and supported $17B enterprise plus 5 startups with product design.
