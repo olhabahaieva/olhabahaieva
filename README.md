@@ -5,8 +5,8 @@ I’m a human-centered UX/UI & Product Designer with over 12 years of experience
 
 ## Key Achievements
 - **Impacted 8.4M users** at DISH Network (EchoStar) and
-- **Supported $17B enterprise 5x startups** with product design.
-- **Top ADP List Mentor & Founder** of UX Designers Club,
+- **Supported $17B enterprise 5x startups** with product design
+- **Top ADP List Mentor & Founder** of UX Designers Club
 - **9x Design Judge & 4x Award Winner** in internatoal competitions  
 - **5x Speaker** on YouTube, Spotify, and Apple Podcasts
 
