@@ -16,7 +16,7 @@ My work blends UX strategy, visual clarity, and modern product execution. I desi
 - **Design Leadership** — mentoring, workshops, product thinking
 - **Coding Specialization** — HTML, CSS, JavaScript, React, Node.js basics, API integration
 
-### My Tolbox
+### My Toolbox
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
