@@ -28,6 +28,11 @@ I’m a UX/UI & Product Designer with over 12 years of experience, creating scal
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-6F42C1?style=for-the-badge&logo=cursor&logoColor=white)
 
+## Featured Projects
+- **[Bookshelf](https://github.com/olhabahaieva/Bookshelf)** — Frontend UI with live demo: simple book library interface  
+- **[Project 5 Frontend](https://github.com/olhabahaieva/project-5-frontend)** — JavaScript-based user interface project  
+- **[Mimino — Team Project](https://github.com/olhabahaieva/Mimino---Team-Project)** — Collaborative frontend project for learning and practice
+
 ## 🤝 Let’s Connect
 🔗 https://www.linkedin.com/in/olhabahaieva/  
 🌐 https://www.olhabahaieva.com/
