@@ -10,10 +10,9 @@ I’m a UX/UI & Product Designer with over 12 years of experience, creating scal
 
 ## What I Bring
 - **Product Strategy** — research, flows, usability, metrics  
-- **UX/UI & Design Systems** — scalable, accessible, interactive  
-- **No-Code & AI Tools** — Webflow, Framer, Figma Make, Cursor, Bolt, Lovable, Replit  
-- **Coding** — HTML, CSS, JavaScript, React, Node.js basics, API integration
-
+- **UX/UI & Design Systems** — scalable, accessible, interactive
+  
+## My Toolbox 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
