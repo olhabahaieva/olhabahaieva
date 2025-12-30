@@ -31,8 +31,6 @@ My work blends UX strategy, visual clarity, and modern product execution. I desi
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-6F42C1?style=for-the-badge&logo=cursor&logoColor=white)
 
-🚀 *Explore my repositories to see how I combine UX, no-code, and AI to ship real products.*
-
 ## 🤝 Let’s Connect
 🔗 https://www.linkedin.com/in/olhabahaieva/  
 🌐 https://www.olhabahaieva.com/
