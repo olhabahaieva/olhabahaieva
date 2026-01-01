@@ -21,5 +21,13 @@ I’m a human-centered UX/UI & Product Designer with over 12 years of experience
 - **[Mimino — Team Project](https://github.com/olhabahaieva/Mimino---Team-Project)** — Collaborative frontend project for learning and practice
 
 ## 🤝 Let’s Connect
+### 👋 Let’s Connect
+
+[![🌐 Website](https://img.shields.io/badge/Website-%23FEFEFE?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.olhabahaieva.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olhabahaieva/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olhabahaieva/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@olhabahaieva)
+[![Book a Call](https://img.shields.io/badge/Book%20a%20Call-4CAF50?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/olhabahaieva)
+
 🔗 https://www.linkedin.com/in/olhabahaieva/  
 🌐 https://www.olhabahaieva.com/
